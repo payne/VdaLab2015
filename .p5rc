@@ -1,4 +1,6 @@
 {
   "name": "OmahaBarCamp2018",
-  "projects": []
+  "projects": [
+    "VdaLab2015"
+  ]
 }
